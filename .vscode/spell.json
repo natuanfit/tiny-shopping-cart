@@ -4,7 +4,8 @@
     "MVC",
     "OmniSharp",
     "NodeJS",
-    "npm"
+    "npm",
+    "aspnet"
   ],
   "mistakeTypeToStatus": {
     "Passive voice": "Hint",
