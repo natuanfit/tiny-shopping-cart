@@ -28,5 +28,6 @@
  - Step 7: Create a web application (ASP.NET MVC CORE) named TinyShoppingCart.WebApp by using Yeoman generator: yo aspnet (choosing An Empty Application template)
  - Step 8: Restore .NET packages for the web application project: dotnet Restore
  - Step 9: Try to build and run the web application: dotnet build and dotnet run
+ - Step 10: Try to debug the web application with Visual Studio Code (2 files: launch.json and tasks.json will be created under .vscode directory). Please refer to: https://wannabeegeek.com/2016/06/23/debugging-dotnet-apps-using-vs-code-on-mac/
 
 
