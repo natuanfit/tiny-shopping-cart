@@ -29,5 +29,9 @@
  - Step 8: Restore .NET packages for the web application project: dotnet Restore
  - Step 9: Try to build and run the web application: dotnet build and dotnet run
  - Step 10: Try to debug the web application with Visual Studio Code (2 files: launch.json and tasks.json will be created under .vscode directory). Please refer to: https://wannabeegeek.com/2016/06/23/debugging-dotnet-apps-using-vs-code-on-mac/
+ - Step 11: Using ASP.NET MVC Core middleware by configuring dependencies to MVC on project.json file
+ - Step 12: Manually create Models, Views and Controllers folders under the project TinyShoppingCart.WebApp
+ - Step 13: Try to create a new controller named HomeController by using yo aspnet:mvccontroller HomeController.cs
+ - Step 14: Try to create a a view named Index.cshtml by using yo asp.net:mvcview Index
 
 
